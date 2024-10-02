@@ -10,7 +10,7 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
       // Ejercicios ejercicio = new Ejercicios();
      //  ejercicio.actividad_inicial();
-     Ejercicios ejercicios = new Ejercicios();
-     ejercicios.mundoo();
+     Ejercicio4 Ejercicio4 = new Ejercicio4();
+     Ejercicio4.Ejercicio4();
     }
 }
