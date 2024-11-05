@@ -9,13 +9,6 @@ public class Ejercicio4 {
         int num1 = 0;
         int num2 = 0;
         int resultado;
-        1,2   2,3
-        String numC = Integer.toString(num2);
-        String numC_1 = numC.substring(0,1);
-        int num_1 = Integer.parseInt(numC_1);
-
-        System.out.println("La primera cifra es " + num_1);
-
         boolean error = true;
         while(error==true){
 
@@ -34,7 +27,7 @@ public class Ejercicio4 {
                 }
             }catch(InputMismatchException er){
 
-                System.out.println("Error. Introduce un valor valido ...");
+                System.out.println("Error. Introduce un valor valido .");
                 entrada.nextLine();
             }
         }
